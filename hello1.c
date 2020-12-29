@@ -8,7 +8,7 @@
 #include <hello1.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("Danyliuk IV-82\n");
+MODULE_AUTHOR("Horokhov IO-82\n");
 MODULE_DESCRIPTION("AK-2 lab_6 (advanced): hello1.c\n");
 
 struct timeit_list {
