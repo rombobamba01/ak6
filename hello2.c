@@ -9,7 +9,7 @@
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK-2 lab_6 (advanced): hello2.c\n");
-MODULE_AUTHOR("Danyliuk IV-82\n");
+MODULE_AUTHOR("Horokhov IO-82\n");
 
 static uint n = 1;
 
