@@ -1,17 +1,3 @@
-# AK2_HW7
-## Результат виконання
-
-### insmod для n=11
-
-![1](images/1.png)
-
-### Пошук адреси помилки
-
-![2](images/2.png)
-
-## Лістинг:
-
-### Makefile
 
 ```makefile
 ccflags-y := -I$(PWD)/inc
@@ -57,7 +43,7 @@ int helloFunction(uint n);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK-2 lab_7: hello11.c\n");
-MODULE_AUTHOR("Danyliuk IV-82\n");
+MODULE_AUTHOR("Horokhov IO-82\n");
 
 struct timeit_list {
 	struct list_head node;
